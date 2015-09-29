@@ -43,7 +43,8 @@ section {
     NAVBAR STYLES
 ==================================*/
 .navbar-default {
-    background-color: #00DB00;
+    background-color: #7ADB4D;
+    opacity:0.9;
     border-color: transparent;
     color: #fff000;
 }
